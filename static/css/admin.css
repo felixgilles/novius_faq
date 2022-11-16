@@ -1,0 +1,87 @@
+.qa_list .faq_icon {
+    cursor: pointer;
+    position: absolute;
+}
+
+.qa_list .faq_delete_question {
+    background: url("../img/cross-button.png") repeat scroll 0 0 rgba(0, 0, 0, 0);
+    height: 16px;
+    width: 16px;
+    right: 10px;
+    top: 10px;
+}
+.qa_item:first-child .faq_icon_arrow.qa-up-js {
+    display: none;
+}
+
+.qa_item:last-child .faq_icon_arrow.qa-down-js {
+    display: none;
+}
+.qa_list .faq_icon_arrow {
+    height: 32px;
+    width: 32px;
+    right: 17px;
+}
+
+.qa_list .faq_icon.qa-up-js {
+    background: url("../img/up.png") repeat scroll 0 0 rgba(0, 0, 0, 0);
+    top: 48px;
+}
+.qa_list .faq_icon.qa-down-js {
+    background: url("../img/down.png") repeat scroll 0 0 rgba(0, 0, 0, 0);
+    top: 96px;
+}
+
+.qa_list .qa_item {
+    position: relative;
+}
+
+.qa_list .qa_message {
+    font-weight: bold;
+}
+
+.qa_list th,
+.qa_list td {
+    padding: 1em;
+}
+
+.qa_list th,
+.qa_list .qa_item > table > tbody > tr > td:first-child {
+    font-weight: bold;
+    width: 5% !important;
+    padding: 17px 1em 1em;
+    text-align: right;
+    vertical-align: top;
+}
+
+.qa_list td {
+    padding-right: 65px;
+    text-align: center;
+}
+
+/*toolbar wysiwyg*/
+.qa_list .mceExternalToolbar th,
+.qa_list .mceExternalToolbar td  {
+    padding: 0;
+}
+
+.qa_list input,
+.qa_list textarea {
+    width: 100%;
+}
+
+.qa_item:nth-child(even) {
+    background: #CCC
+}
+
+.qa_item {
+    padding: 10px 0;
+}
+
+.qa_item table {
+    margin-top: 10px;
+}
+
+.button-add-qa {
+    margin: 15px;
+}

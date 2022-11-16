@@ -1,0 +1,1 @@
+ALTER TABLE `novius_faq_questions` ADD `ques_order` INT NULL AFTER `ques_answer` ;

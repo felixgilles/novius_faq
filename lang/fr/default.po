@@ -1,0 +1,76 @@
+#: /data/www/web/nos_sites/test_victor_dubrovka/ci/i18n/po/classes/controller/admin/faq/crud.ctrl.php:44
+msgid "Question n°{{X}} is missing"
+msgstr "La question n°{{X}} n'est pas renseignée"
+
+#: /data/www/web/nos_sites/test_victor_dubrovka/ci/i18n/po/classes/controller/admin/faq/crud.ctrl.php:46
+msgid "Answer n°{{X}} is missing"
+msgstr "La réponse n°{{X}} n'est pas renseignée"
+
+#: /data/www/web/nos_sites/test_victor_dubrovka/ci/i18n/po/config/controller/admin/faq/inspector/category.php:10
+#: /data/www/web/nos_sites/test_victor_dubrovka/ci/i18n/po/config/controller/admin/faq/crud.config.php:60
+#: /data/www/web/nos_sites/test_victor_dubrovka/ci/i18n/po/config/controller/admin/category/crud.config.php:12
+#: /data/www/web/nos_sites/test_victor_dubrovka/ci/i18n/po/config/common/faq.config.php:15
+msgid "Category"
+msgstr "Catégorie"
+
+#: /data/www/web/nos_sites/test_victor_dubrovka/ci/i18n/po/config/controller/admin/faq/enhancer.config.php:6
+msgid "Choose a FAQ to display"
+msgstr "Choisir la FAQ à afficher"
+
+#: /data/www/web/nos_sites/test_victor_dubrovka/ci/i18n/po/config/controller/admin/faq/crud.config.php:13
+#: /data/www/web/nos_sites/test_victor_dubrovka/ci/i18n/po/config/controller/admin/faq/crud.config.php:72
+msgid "Introduction"
+msgstr "Introduction"
+
+#: /data/www/web/nos_sites/test_victor_dubrovka/ci/i18n/po/config/controller/admin/faq/crud.config.php:31
+msgid "Questions & Answers"
+msgstr "Questions et Réponses"
+
+#: /data/www/web/nos_sites/test_victor_dubrovka/ci/i18n/po/config/controller/admin/faq/crud.config.php:45
+msgid "Administration"
+msgstr "Administration"
+
+#: /data/www/web/nos_sites/test_victor_dubrovka/ci/i18n/po/config/controller/admin/faq/crud.config.php:66
+#: /data/www/web/nos_sites/test_victor_dubrovka/ci/i18n/po/config/controller/admin/category/crud.config.php:37
+#: /data/www/web/nos_sites/test_victor_dubrovka/ci/i18n/po/config/common/category.config.php:6
+#: /data/www/web/nos_sites/test_victor_dubrovka/ci/i18n/po/config/common/faq.config.php:6
+msgid "Title"
+msgstr "Titre"
+
+#: /data/www/web/nos_sites/test_victor_dubrovka/ci/i18n/po/config/controller/admin/faq/crud.config.php:87
+msgid "URL: "
+msgstr "URL :"
+
+#: /data/www/web/nos_sites/test_victor_dubrovka/ci/i18n/po/config/common/faq.config.php:9
+# Q&A stands for "Question & Answer"
+msgid "Number of Q&As"
+msgstr "Nombre de Questions/Réponses"
+
+#: /data/www/web/nos_sites/test_victor_dubrovka/ci/i18n/po/views/admin/question.view.php:6
+# Q&A stands for "Question & Answer"
+msgid "Are you sure you want to delete this Q&A?"
+msgstr "Êtes-vous bien sûr de vouloir supprimer cette Q/R?"
+
+#: /data/www/web/nos_sites/test_victor_dubrovka/ci/i18n/po/views/admin/question.view.php:7
+# Q&A stands for "Question & Answer"
+msgid "This Q&A will be deleted when the FAQ is saved"
+msgstr "Cette Q/R sera supprimée une fois la FAQ sauvegardée"
+
+#: /data/www/web/nos_sites/test_victor_dubrovka/ci/i18n/po/views/admin/question.view.php:15
+# Q stands for "Question"
+msgid "Q"
+msgstr "Q"
+
+#: /data/www/web/nos_sites/test_victor_dubrovka/ci/i18n/po/views/admin/question.view.php:18
+# Q&A stands for "Question & Answer"
+msgid "You can leave both question and answer empty to delete a Q&A"
+msgstr "Si vous laissez la question et la réponse vides, l'ensemble Q/R sera supprimé"
+
+#: /data/www/web/nos_sites/test_victor_dubrovka/ci/i18n/po/views/admin/question.view.php:23
+# A stands for "Answer"
+msgid "A"
+msgstr "R"
+
+#: /data/www/web/nos_sites/test_victor_dubrovka/ci/i18n/po/views/admin/questions.view.php:29
+msgid "Add one question"
+msgstr "Ajouter une question"

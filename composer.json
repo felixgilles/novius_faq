@@ -1,0 +1,14 @@
+{
+  "name": "novius/novius_faq",
+  "description": "description",
+  "license": "proprietary",
+  "authors": [
+    {
+      "name": "felix",
+      "email": "email@example.com"
+    }
+  ],
+  "type": "fuel-module",
+  "require": {
+  }
+}
