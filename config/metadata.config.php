@@ -1,6 +1,6 @@
 <?php
 return array(
-    'name'    => 'FAQ',
+    'name'    => 'Novius FAQ',
     'version' => '1',
     'provider' => array(
         'name' => 'Novius',
