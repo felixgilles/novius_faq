@@ -10,5 +10,6 @@
   ],
   "type": "fuel-module",
   "require": {
+    "composer/installers": "~1.0"
   }
 }
